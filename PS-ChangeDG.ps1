@@ -839,7 +839,7 @@ Active Directory when you use Office365 and no longer have an on-premises Exchan
 Changes will be synchronized towards Office 365 on the next Directory Synchronization.
 
 Tool Requirements:
-- Windows PowerShell version 2
+- Windows PowerShell version 3
 - Read/Write access to the AD attributes (below)
 - Active Directory Module for PowerShell
 
