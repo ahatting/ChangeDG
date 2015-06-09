@@ -30,3 +30,5 @@ The following attributes can be changed:
 - PS-ChangeDG.exe.config
 
 ***
+
+![Sample](https://github.com/ahatting/ChangeDG/blob/master/Sample1.png "ChangeDG")
