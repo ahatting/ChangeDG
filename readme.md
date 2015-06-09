@@ -1,6 +1,6 @@
 ﻿## ChangeDG
 
-_The tool allows you to change certain attributes for Distributiongroups/lists in an on-premises Active Directory when you use Office365 and no longer have an on-premises Exchange Organization. Changes will be synchronized towards Office 365 on the next Directory Synchronization._
+_The tool allows you to change the authorized senders for Distributiongroups/lists in an on-premises Active Directory when you use Office365 and no longer have an on-premises Exchange Organization. Changes will be synchronized towards Office 365 on the next Directory Synchronization._
 
 **minimal requirements**
 - Windows PowerShell version 2
